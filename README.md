@@ -35,7 +35,3 @@ The following important libraries were used for this project:
 4. A sample prediction was made using __log.predict([[2, 1]])__ with Pclass=2 and Sex=Male (1)
 
 
-
-
-
-[README (1).md](https://github.com/user-attachments/files/16504980/README.1.md)
